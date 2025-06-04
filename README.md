@@ -1,2 +1,1 @@
-# test
-test
+#!/bin/bash
